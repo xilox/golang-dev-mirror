@@ -1,4 +1,0 @@
-/* workaround for compatibility bug when using antd and react-simple-code-editor together*/
-pre+textarea::selection {
-  -webkit-text-fill-color: white
-}
